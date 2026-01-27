@@ -26,7 +26,7 @@ function App() {
    <div className="w-full h-screen grid grid-cols-1 md:grid-cols-[1fr_2fr]">
 {/* LEFT SIDE – IMAGE */}
 <div
-className="hidden md:block bg-cover bg-center w-120"
+className="hidden md:block bg-cover bg-center "
 style={{
 backgroundImage:
 "url('https://images.pexels.com/photos/18030044/pexels-photo-18030044.jpeg')",
